@@ -23,7 +23,7 @@ http://lhq-cctv.8866.org:18181/tsfile/live/1211_1.m3u8
 http://lhq-cctv.8866.org:18181/tsfile/live/0014_1.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="其他",珠江频道
 http://lhq-cctv.8866.org:18181/tsfile/live/1031_1.m3u8
-#EXTINF:-1,tvg-id="CCM电影台" tvg-name="CCM电影台" tvg-logo="https://epg.112114.xyz/logo/CCM电影台.png" group-title="其他",CCM电影台
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="其他",天映经典
 http://lhq-cctv.8866.org:18181/tsfile/live/1211_1.m3u8
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://lhq-cctv.8866.org:18181/tsfile/live/0132_2.m3u8
