@@ -13,7 +13,7 @@ http://lhq-cctv.8866.org:18181/tsfile/live/1201_1.m3u8
 http://lhq-cctv.8866.org:18181/tsfile/live/1201_1.m3u8
 #EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="其他",龙祥时代HD
 http://lhq-cctv.8866.org:18181/tsfile/live/1205_1.m3u8
-#EXTINF:-1,tvg-id="东深电影HD" tvg-name="东深电影HD" tvg-logo="https://epg.112114.xyz/logo/东深电影.png" group-title="其他",东深电影HD
+#EXTINF:-1,tvg-id="东森电影HD" tvg-name="东深电影HD" tvg-logo="https://epg.112114.xyz/logo/东深电影.png" group-title="其他",东深电影HD
 http://lhq-cctv.8866.org:18181/tsfile/live/1222_1.m3u8
 #EXTINF:-1,tvg-id="测试频道03" tvg-name="测试频道03" tvg-logo="https://epg.112114.xyz/logo/测试频道03.png" group-title="其他",测试频道03
 http://lhq-cctv.8866.org:18181/tsfile/live/1203_1.m3u8
