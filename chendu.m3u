@@ -3,9 +3,9 @@
 http://lhq-cctv.8866.org:18181/tsfile/live/1204_1.m3u8
 #EXTINF:-1,tvg-id="ELEVEN体育二台" tvg-name="ELEVEN体育二台" tvg-logo="https://epg.112114.xyz/logo/ELEVENSPORTS2.png" group-title="台湾",ELEVEN体育二台
 http://lhq-cctv.8866.org:18181/tsfile/live/1216_1.m3u8
-#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻HD
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="台湾",东森新闻HD
 http://lhq-cctv.8866.org:18181/tsfile/live/1201_1.m3u8
-#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="其他",龙祥时代HD
+#EXTINF:-1,tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="台湾",龙祥时代HD
 http://lhq-cctv.8866.org:18181/tsfile/live/1205_1.m3u8
 #EXTINF:-1,tvg-id="东森电影台" tvg-name="东森电影台" tvg-logo="https://epg.112114.xyz/logo/东森电影台.png" group-title="港澳台",东森电影HD
 http://lhq-cctv.8866.org:18181/tsfile/live/1222_1.m3u8
